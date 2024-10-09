@@ -59,4 +59,38 @@ body{
     padding: 21px 24px 21px 24px;
     letter-spacing: 2px;
  }
-/*......................Banner Section Style Ends.....................*/
+
+/*......................Footer Section Style Starts.....................*/
+
+.footer-container{
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.footer-contains{
+    width: 1140px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.footer-heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 23px;
+}
+
+
+
+
+
+
+
