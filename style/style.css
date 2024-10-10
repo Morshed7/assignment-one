@@ -70,13 +70,14 @@ body{
     padding: 80px 97px 80px 97px;
     margin-bottom: 30px;
 }
+
 .dev-content{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center; 
 }
+
 .heading-two{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -84,6 +85,7 @@ body{
     font-weight: 800;
     line-height: 37px;
 }
+
 .heading-paragraph{
     color: rgb(13, 19, 33);
     font-size: 16px;
@@ -92,14 +94,15 @@ body{
     text-align: center;
     margin: 24px 0px;
 }
+
 .dev-inside-items{
     width: 850px;
     height: 240px;
     border-radius: 16px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-    display: flex;
-    
+    display: flex;  
 }
+
 .leftsite-text{
     width: 50%;
     height: 240px;
@@ -109,6 +112,7 @@ body{
 .rightsite-image img{
     margin-left: 100px;
 }
+
 .heading-h3{
     color: rgba(13, 19, 33, 0.7);
     font-size: 20px;
@@ -117,6 +121,7 @@ body{
     text-align: left;
     margin-bottom: 10px;
 }
+
 .heading-sub-para{
     color: rgb(13, 19, 33);
     font-size: 16px;
@@ -124,6 +129,7 @@ body{
     line-height: 26px;
     text-align: left;
 }
+
  .dev-btn{
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
@@ -139,8 +145,8 @@ body{
     line-height: 23px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     text-align: center;
-
  }
+
  .second-items{
     margin-top: 30px;
  }
@@ -148,10 +154,10 @@ body{
 .second-image img{
     margin-left:20px ;
 }
+
 .third-item{
     margin-top: 30px;
 }
-
 
 /*--------------- Insperation sectio starts---------------------- */
 .insperation-container{
@@ -160,9 +166,9 @@ body{
     margin: 0 auto;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     padding: 70px 97px 80px 97px;
-    margin-bottom: 120px;
-    
+    margin-bottom: 120px; 
 }
+
 .insperation-content{
     display: flex;
     flex-direction: column;
@@ -198,6 +204,7 @@ body{
     height: 113px;
     margin-bottom: 50px;
 }
+
 .target-heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -206,6 +213,7 @@ body{
     line-height: 37px;
     padding-top: 40px;
 }
+
 .target-paragraph{
     color: rgb(13, 19, 33);
     font-size: 16px;
@@ -220,8 +228,8 @@ body{
     height: 299px;
     display: flex;
     gap: 20px;
-   
 }
+
 .first-target{
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
@@ -234,6 +242,7 @@ body{
     align-items: flex-start;
     padding: 40px;
 }
+
 .first-target-heading{
     padding-top: 20px;
     color: rgb(13, 19, 33);
@@ -241,6 +250,7 @@ body{
     font-size: 24px;
     font-weight: 800;
 }
+
 .first-target-paragraph{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -249,11 +259,11 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
+
 learn-btn{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 16px;
-   
+    font-size: 16px; 
 }
 
 .second-target{
@@ -268,6 +278,7 @@ learn-btn{
     align-items: flex-start;
     padding: 40px;
 }
+
 .third-target{
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
@@ -310,6 +321,7 @@ learn-btn{
     line-height: 36px;
     text-align: center;
 }
+
 .support-para{
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
@@ -355,6 +367,7 @@ learn-btn{
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.03);
 }
+
 .footer-contains{
     width: 1140px;
     height: 100px;
@@ -366,6 +379,7 @@ learn-btn{
     justify-content: space-between;
     margin-top: 80px;
 }
+
 .footer-heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
