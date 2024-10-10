@@ -189,6 +189,7 @@ body{
     width: 1140px;
     height: 460px;
     margin: 0 auto;
+    margin-bottom: 50px;
 }
 
 .target-content{
@@ -285,6 +286,67 @@ learn-btn{
     padding: 40px;  
 }
 
+/*------------- Support Section Styles Starts------------ */
+
+.support-container{
+    width: 1140px;
+    height: 313px;
+    border: 3px solid rgb(137, 225, 65);
+    margin: 0 auto;
+}
+
+.support-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 64px 48px 64px 48px;
+}
+
+.support-heading{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+}
+.support-para{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.support-input{
+    width: 548px;
+    height: 55;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+    font-size: 20px;
+}
+
+.support-btn{
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+    
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+}
 
 /*......................Footer Section Style Starts.....................*/
 
@@ -304,7 +366,7 @@ learn-btn{
     justify-content: center;
     align-items: center;
     justify-content: space-between;
-    margin-top: 300px;
+    margin-top: 80px;
 }
 .footer-heading{
     color: rgb(13, 19, 33);
