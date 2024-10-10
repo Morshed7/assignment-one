@@ -10,7 +10,6 @@ body{
     background: rgb(255, 255, 255);
 }
 
-
 /*.................Banner Section Style starts..................*/
 .banner-container{
     width: 1440px;
@@ -61,7 +60,7 @@ body{
     padding: 21px 24px 21px 24px;
     letter-spacing: 2px;
  }
-/* ......................My Web Development Section Style Starts..................... */
+/* ......................Why Web Development Section Style Starts..................... */
 
 .dev-container{
     width: 1140px;
@@ -154,8 +153,7 @@ body{
 }
 
 
-/* Insperation sectio starts */
-
+/*--------------- Insperation sectio starts---------------------- */
 .insperation-container{
     width: 1140px;
     height: 550px;
@@ -178,12 +176,10 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center; 
-    margin-top: 40px; 
-    
+    margin-top: 40px;  
 }
 
-
-/* My Current Target Section Styles Starts */
+/*-------------- My Current Target Section Styles Starts------------- */
 
 .target-container{
     width: 1140px;
@@ -224,7 +220,6 @@ body{
     height: 299px;
     display: flex;
     gap: 20px;
-   
    
 }
 .first-target{
