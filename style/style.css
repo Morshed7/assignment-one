@@ -7,6 +7,7 @@
 }
 body{
     font-family: "Azeret Mono", monospace;
+    background: rgb(255, 255, 255);
 }
 
 
@@ -19,6 +20,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 70px;
 }
 .content{
     display: flex;
@@ -35,7 +37,7 @@ body{
     letter-spacing: 0%;
     
 }
-.heading-paragraph{
+.banner-paragraph{
     color: rgb(13, 19, 33);
     font-size: 18px;
     font-weight: 400;
@@ -59,6 +61,99 @@ body{
     padding: 21px 24px 21px 24px;
     letter-spacing: 2px;
  }
+/* ......................My Web Development Section Style Starts..................... */
+
+.dev-container{
+    width: 1140px;
+    height: 1050px;
+    border: 4px solid rgb(94, 255, 0);
+    margin: 0 auto;
+    background: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px 80px 97px;
+}
+.dev-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.heading-two{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
+.heading-paragraph{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin: 24px 0px;
+}
+.dev-inside-items{
+    width: 850px;
+    height: 240px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    display: flex;
+    
+}
+.leftsite-text{
+    width: 50%;
+    height: 240px;
+    margin-left: 20px;
+}
+
+.rightsite-image img{
+    margin-left: 100px;
+}
+.heading-h3{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.heading-sub-para{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+}
+ .dev-btn{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    padding: 12px 20px 12px 20px;
+    margin-top: 10px;
+    width: 171px;
+    height: 47px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    text-align: center;
+
+ }
+ .second-items{
+    margin-top: 30px;
+ }
+
+.second-image img{
+    margin-left:20px ;
+}
+.third-item{
+    margin-top: 30px;
+}
+
+
 
 /*......................Footer Section Style Starts.....................*/
 
