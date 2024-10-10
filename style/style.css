@@ -162,6 +162,7 @@ body{
     margin: 0 auto;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     padding: 80px 97px 80px 97px;
+    margin-bottom: 120px;
     
 }
 .insperation-content{
@@ -178,6 +179,110 @@ body{
     justify-content: center;
     align-items: center; 
     margin-top: 40px; 
+    
+}
+
+
+/* My Current Target Section Styles Starts */
+
+.target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+}
+
+.target-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 852px;
+    height: 113px;
+    margin-bottom: 50px;
+}
+.target-heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    padding-top: 40px;
+}
+.target-paragraph{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin: 24px 0px;
+}
+
+.target-portfullio{
+    width: 1140px;
+    height: 299px;
+    display: flex;
+    gap: 20px;
+   
+   
+}
+.first-target{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 40px;
+}
+.first-target-heading{
+    padding-top: 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+}
+.first-target-paragraph{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+learn-btn{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+   
+}
+
+.second-target{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 40px;
+}
+.third-target{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 40px;  
 }
 
 
