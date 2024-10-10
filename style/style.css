@@ -68,7 +68,7 @@ body{
     margin: 0 auto;
     background: rgba(13, 19, 33, 0.02);
     padding: 80px 97px 80px 97px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 .dev-content{
     display: flex;
@@ -159,7 +159,7 @@ body{
     height: 550px;
     margin: 0 auto;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-    padding: 80px 97px 80px 97px;
+    padding: 70px 97px 80px 97px;
     margin-bottom: 120px;
     
 }
@@ -176,7 +176,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center; 
-    margin-top: 40px;  
+    margin-top: 30px;  
 }
 
 /*-------------- My Current Target Section Styles Starts------------- */
